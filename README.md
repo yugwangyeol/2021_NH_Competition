@@ -18,7 +18,7 @@
 - 성과 : 입상 
 <br/>
 
-![CamScanner 12-06-2021 20.24.pdf](https://github.com/user-attachments/files/17005297/CamScanner.12-06-2021.20.24.pdf)
+![9474706c_1](https://github.com/user-attachments/assets/087848fb-6135-4975-ab8b-a16520672a42)
 
 <br/>
 
