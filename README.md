@@ -80,4 +80,4 @@
 
 ## 7. 발표 자료&참고 자료
 
-[2021 NH 주식 보험 서비스 제안서]([https://dacon.io/competitions/official/236134/overview/description](https://github.com/yugwangyeol/2021_NH_Competition/blob/main/2%EC%B0%A8/161819%EC%84%9C%EB%B9%84%EC%8A%A4%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%A0%9C%EC%95%88%EC%84%9C(pdf).pdf))  
+[2021 NH 주식 보험 서비스 제안서]([https://github.com/yugwangyeol/2021_NH_Competition/blob/main/2%EC%B0%A8/161819%EC%84%9C%EB%B9%84%EC%8A%A4%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%A0%9C%EC%95%88%EC%84%9C(pdf).pdf])  
